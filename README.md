@@ -20,6 +20,7 @@ engineer.
 housing-price-prediction-api/
 ├── train.py # Trains and saves the model
 ├── main.py # FastAPI app that serves predictions
+├── assets #api working screesnshots
 ├── requirements.txt # Python dependencies
 └── README.md
 ```
